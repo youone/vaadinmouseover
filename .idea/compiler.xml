@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vaadin-mouseover" />
+        <module name="vaadin-mouseover-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vaadin-mouseover" target="1.8" />
+      <module name="vaadin-mouseover-demo" target="1.8" />
+      <module name="vaadinmouseover" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
